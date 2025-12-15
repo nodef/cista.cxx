@@ -1,0 +1,22 @@
+{
+  "name": "cista.cxx",
+  "version": "0.16.0",
+  "description": "Cista is a simple, high-performance, zero-copy C++ serialization & reflection library; Felix Gündling (2018).",
+  "keywords": [
+    "c",
+    "library",
+    "serialization",
+    "reflection",
+    "header-only"
+  ],
+  "homepage": "https://github.com/nodef/cista.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/cista.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/cista.cxx.git"
+  },
+  "license": "MIT",
+  "main": "cista.h"
+}
